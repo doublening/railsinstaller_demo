@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18e528c0-5c1e-4f59-9813-990d3eb909d1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/gui.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/gui.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
@@ -41,10 +42,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gui.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="gui.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/gui.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="56" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.83870965">
+            <state line="54" column="56" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-13.52">
               <folding />
             </state>
           </provider>
@@ -68,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="6" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.71495324">
               <folding />
             </state>
           </provider>
@@ -124,11 +125,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/recorder.js" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/gui.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -637,13 +638,6 @@
         <state line="3" column="30" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="6" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/helpers/rendering_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="0" selection-start="3119" selection-end="3119" vertical-scroll-proportion="0.0">
@@ -688,7 +682,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/gui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="56" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.83870965">
+        <state line="54" column="56" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-13.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.71495324">
           <folding />
         </state>
       </provider>
