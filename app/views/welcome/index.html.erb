@@ -1,5 +1,33 @@
 
+<!-- swfobject is a commonly used library to embed Flash content -->
+<script type="text/javascript"
+        src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
-<div id="wami" style="margin-left: 100px;"></div>
+<script>
+    function setupRecorder() {
+        Wami.setup({
+            id: "wami",
+            onReady: setupGUI
+        });
+    }
+
+    function setupGUI() {
+        var gui = new Wami.GUI({
+            id: "wami",
+            recordUrl: "https://wami-recorder.appspot.com/audio",
+            playUrl: "https://wami-recorder.appspot.com/audio"
+        });
+
+        gui.setPlayEnabled(false);
+    }
+</script>
+
+<div>
+  <h2>Welcome to George's Chinese Leaning Site</h2>
+  <p>Speak Chinese and Listen</p>
+</div>
+
+<div id="wami" style="margin-left: 100px; margin-top: 50px"></div>
 <noscript>WAMI requires Javascript</noscript>
+
 
